@@ -1,6 +1,6 @@
 # Text-Detect
 
-simple scipt with python to read text from image
+python script with python to read text from image
 
 ## libraries :
   pytesseract
